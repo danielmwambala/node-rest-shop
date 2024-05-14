@@ -15,6 +15,7 @@
   "author": "Daniel Mwambala",
   "license": "MIT",
   "dependencies": {
+    "body-parser": "^1.20.2",
     "express": "^4.19.2"
   },
   "devDependencies": {
